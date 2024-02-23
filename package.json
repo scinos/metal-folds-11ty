@@ -18,7 +18,7 @@
         "clean-css": "^5.3.1",
         "eleventy-plugin-react-ssr": "^1.0.2",
         "esbuild": "^0.16.13",
-        "eslint": "^8.31.0",
+        "eslint": "^8.57.0",
         "eslint-config-airbnb": "^19.0.4",
         "eslint-config-airbnb-base": "^15.0.0",
         "eslint-config-prettier": "^8.6.0",
