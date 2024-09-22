@@ -17,7 +17,7 @@
         "babel-plugin-inline-react-svg": "^2.0.1",
         "clean-css": "^5.3.1",
         "eleventy-plugin-react-ssr": "^1.0.2",
-        "esbuild": "^0.16.13",
+        "esbuild": "^0.24.0",
         "eslint": "^8.31.0",
         "eslint-config-airbnb": "^19.0.4",
         "eslint-config-airbnb-base": "^15.0.0",
